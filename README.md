@@ -2,8 +2,7 @@
 
 `sudo chmod 777 * -R`
 
-`
-class CurlWrapper {
+`class CurlWrapper {
 
     private $curlopt = array(
         CURLOPT_RETURNTRANSFER => 1,
