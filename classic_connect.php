@@ -88,7 +88,7 @@ class CurlWrapper {
 
 
 $te = new CurlWrapper('cookie');
-$te->classic_connect('cookie','mennad.sekour@epitech.eu','>go4zCb+');
+$te->classic_connect('cookie','xxxxxx@epitech.eu','xxxxxx');
 
 echo '<pre>';
     var_dump($te->get('https://intra.epitech.eu/user?format=json', true));
