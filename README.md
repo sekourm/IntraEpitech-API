@@ -1,6 +1,10 @@
 # IntraEpitech-API
 
-`sudo chmod 777 * -R`
+<pre>
+
+sudo chmod 777 * -R
+
+</pre>
 
 <code>
 class CurlWrapper {
