@@ -1,7 +1,8 @@
 # IntraEpitech-API
 
-sudo chmod 777 * -R
+`sudo chmod 777 * -R`
 
+`
 class CurlWrapper {
 
     private $curlopt = array(
@@ -92,6 +93,6 @@ class CurlWrapper {
 $te = new CurlWrapper('cookie');
 $te->classic_connect('cookie','xxxxx@epitech.eu','xxxxxx');
 
-echo '<pre>';
-    var_dump($te->get('https://intra.epitech.eu/user?format=json', true));
-echo '</pre>';
+var_dump($te->get('https://intra.epitech.eu/user?format=json', true));
+
+`
