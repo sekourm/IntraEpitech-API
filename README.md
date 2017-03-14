@@ -2,7 +2,8 @@
 
 `sudo chmod 777 * -R`
 
-`class CurlWrapper {
+<code>
+class CurlWrapper {
 
     private $curlopt = array(
         CURLOPT_RETURNTRANSFER => 1,
@@ -94,4 +95,4 @@ $te->classic_connect('cookie','xxxxx@epitech.eu','xxxxxx');
 
 var_dump($te->get('https://intra.epitech.eu/user?format=json', true));
 
-`
+</code>
