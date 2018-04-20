@@ -1,7 +1,1 @@
-# IntraEpitech-API
-
-Structure du dépôt
-
-Le dossier est composé de:
-
-classic-connect.php
+Script for use Epitech API
